@@ -1,4 +1,4 @@
-# Roboflow inferencejs sample app (realtime video processing)
+# Roboflow water project sample app (realtime video processing)
 
 ## Overview
 
