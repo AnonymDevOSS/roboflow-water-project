@@ -394,9 +394,7 @@ async function connectWebcamToRoboflowWebRTC(options = {}) {
 }
 
 /**
- * Calculate average with outlier removal for first 8 positions
- * Last 2 positions are always included regardless of outliers
- *
+ * Calculate average with outlier removal
  * Returns { average, filteredHistory, removedCount }
  */
 function calculateFilteredAverage(history) {
